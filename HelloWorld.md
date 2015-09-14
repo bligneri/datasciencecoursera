@@ -1,4 +1,4 @@
-# Coursera Data Scince - 201509
+# Coursera Data Science course - 201509
 
 ## This is a markdown file
 
